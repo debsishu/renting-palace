@@ -1,8 +1,8 @@
 ![alt text](/Design/Home-Page.png)
-# renting-palace
+# Renting-Palace
 - Web app for renting houses
 - Find your suitable room in your location at best price with just few clicks
-# used-technology
-- html,css,js
-- nodeJs,express
-- mySqlI
+# Used-Technology
+- HTML, CSS, JavaScript
+- Node-js, Express-js
+- mySQL
