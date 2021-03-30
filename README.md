@@ -1,4 +1,4 @@
-![alt text](./design/Home-Page.png)
+![alt text](/design/Home-Page.png)
 # renting-palace
 - Web app for renting houses
 - Find your suitable room in your location at best price with just few clicks
